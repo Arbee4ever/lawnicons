@@ -525,6 +525,7 @@
     <icon drawable="@drawable/midi_player" package="net.volcanomobile.midiplayer" name="MIDI Player" />
     <icon drawable="@drawable/mijn_hr" package="com.hogeschoolrotterdam.student" name="Mijn HR" />
     <icon drawable="@drawable/milanote" package="com.milanote.milanoteApp" name="Milanote" />
+    <icon drawable="@drawable/minesweeper" package="ee.dustland.android.minesweeper" name="Minesweeper" />
     <icon drawable="@drawable/minisweeper" package="com.AntonBergaker.minisweeper" name="miniSweeper" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.beta" name="MiXplorer" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.silver" name="MiXplorer" />
@@ -718,6 +719,7 @@
     <icon drawable="@drawable/seriesguide" package="com.battlelancer.seriesguide" name="SeriesGuide" />
     <icon drawable="@drawable/settings" package="com.android.settings" name="Settings" />
     <icon drawable="@drawable/shazam" package="com.shazam.android" name="Shazam" />
+    <icon drawable="@drawable/sharezone" package="de.codingbrain.sharezone" name="Sharezone" />
     <icon drawable="@drawable/share_me" package="com.xiaomi.midrop" name="ShareMe"/>
     <icon drawable="@drawable/share_me" package="com.xiaomi.midrop.SplashScreen" name="ShareMe"/>
     <icon drawable="@drawable/shopee" package="com.shopee.br" name="Shopee" />
